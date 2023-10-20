@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Animu</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="genre">Genre</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="search_anime">Search Anime</string>
+    <string name="unknown">Unknown</string>
+    <string name="source">Source</string>
+    <string name="aired">Aired</string>
+    <string name="studio">Studio</string>
+    <string name="empty_favorite">Empty Favorite</string>
+    <string name="no_anime_found_favorite">Anime you searched not found in favorite</string>
+    <string name="no_anime_found">Anime you searched not found</string>
+    <string name="item_status">Status: %1$s</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="episodes">%1$d Eps</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_name">M. ARIEF KURNIAWAN</string>
+    <string name="profile_email">iwancuah13@gmail.com</string>
+</resources>

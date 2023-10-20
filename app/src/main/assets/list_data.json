@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "mal_id": 40357,
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1188/136926l.jpg"
+        }
+      },
+      "title": "Tate no Yuusha no Nariagari Season 3",
+      "title_japanese": "盾の勇者の成り上がり Season 3",
+      "status": "Currently Airing",
+      "score": 7.71,
+      "season": "fall",
+      "year": 2023
+    },
+    {
+      "mal_id": 53887,
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg"
+        }
+      },
+      "title": "Spy x Family Season 2",
+      "title_japanese": "SPY×FAMILY Season 2",
+      "status": "Currently Airing",
+      "score": 8.38,
+      "season": "fall",
+      "year": 2023
+    },
+    {
+      "mal_id": 54595,
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1938/138295l.jpg"
+        }
+      },
+      "title": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+      "title_japanese": "陰の実力者になりたくて！ 2nd Season",
+      "status": "Currently Airing",
+      "score": 8.72,
+      "season": "fall",
+      "year": 2023
+    }
+  ]
+}

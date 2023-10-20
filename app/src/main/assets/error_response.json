@@ -1,0 +1,6 @@
+{
+  "status": 500,
+  "type": "InternalException",
+  "message": "Exception Message",
+  "error": "Exception Trace"
+}

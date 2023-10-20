@@ -1,0 +1,44 @@
+{
+  "data": {
+    "mal_id": 53887,
+    "images": {
+      "jpg": {
+        "large_image_url": "https://cdn.myanimelist.net/images/anime/1506/138982l.jpg"
+      }
+    },
+    "title": "Spy x Family Season 2",
+    "title_japanese": "SPY×FAMILY Season 2",
+    "type": "TV",
+    "source": "Manga",
+    "episodes": 12,
+    "status": "Currently Airing",
+    "aired": {
+      "string": "Oct 7, 2023 to ?"
+    },
+    "duration": "23 min per ep",
+    "score": 8.38,
+    "synopsis": "Second season of Spy x Family.",
+    "season": "fall",
+    "year": 2023,
+    "studios": [
+      {
+        "mal_id": 858,
+        "name": "Wit Studio"
+      },
+      {
+        "mal_id": 1835,
+        "name": "CloverWorks"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "name": "Action"
+      },
+      {
+        "mal_id": 4,
+        "name": "Comedy"
+      }
+    ]
+  }
+}
