@@ -40,7 +40,6 @@ import com.kotlin.animu.ui.screen.favorite.FavoriteScreen
 import com.kotlin.animu.ui.screen.genre.GenreScreen
 import com.kotlin.animu.ui.screen.home.HomeScreen
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AnimuApp(
     modifier: Modifier = Modifier, navController: NavHostController = rememberNavController()
@@ -88,7 +87,11 @@ fun AnimuApp(
                     )
                 },
                 text = {
-                    Text(text = if (fabState) stringResource(id = R.string.remove) else stringResource(id = R.string.add))
+                    Text(
+                        text = if (fabState) stringResource(id = R.string.remove) else stringResource(
+                            id = R.string.add
+                        )
+                    )
                 }
             )
         }
@@ -179,6 +182,4 @@ fun TopBar(
         ),
         modifier = modifier
     )
-
-
 }
